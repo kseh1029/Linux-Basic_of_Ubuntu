@@ -1,7 +1,9 @@
+# Ubuntu
+
 어떤 Tweak 을 설치하기 전 apt update 는 습관적으로 하는것이 좋다.
 
 ```bash
-sudo apt update
+​sudo apt update
 sudo apt upgrade
 ```
 
